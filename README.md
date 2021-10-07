@@ -6,4 +6,4 @@ The task is to build a model that will determine the tone that is _**neutral, po
 
 Preprocessing on the text is done. This includes stemming, removing stopwords and unwanted symbols/characters in the text.
 
-<h3> The model using Logistic Regression yielded an accuracy of 96%.</h3>
+<h3> The model using Logistic regression yielded an accuracy of 96%.</h3>
